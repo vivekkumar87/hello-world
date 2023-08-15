@@ -1,2 +1,2 @@
 # hello-world
-It is the initial repositorya and for practice
+It is the initial repository and for practice
